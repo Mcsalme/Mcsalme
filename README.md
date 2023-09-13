@@ -4,7 +4,7 @@
 + 📕 Estudante de logística
 - 🌱 I’m currently learning ...
 
-#
+---
 <div>
   <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20CSS.png" width="30px"> 
   <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20github.png" width="30px"> 
