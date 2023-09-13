@@ -4,15 +4,17 @@
 + 📕 Estudante de logística
 - 🌱 I’m currently learning ...
 
+
+#
 <div>
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
-  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/application_office_powerpoint_2472.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20CSS.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20GITHUB.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20HTML.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20Jira.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20PYTHON.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20Powe%20BI.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20Trello.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20VSCODE.png" width="30px"> 
+  <img src = "https://github.com/Mcsalme/Mcsalme/blob/main/Icone%20canva.png" width="30px"> 
   
 </div>
